@@ -18,6 +18,6 @@ slides:
         description: 'Monotonectally envisioneer 24/7 bandwidth with reliable imperatives. Continually unleash unique<br>niches after go forward.'
         background_image: hero-slide-3.jpg
         background_image_description: 'Good solutions for your business!'
-        url: 'https://www.doityourself.rocks/magicmirror/diy-magicmirror-1-materialliste/'
+        url: 'https://www.doityourself.rocks/magicmirror'
 ---
 
